@@ -13,3 +13,7 @@ Among the things I'm currently learning to use are:
 * And just genereally how to design and work with databases.
 
 I am terrible at introductions so i hope this is fine.
+
+>Now a message in swedish: För att klona detta Repo behöver du använda kommandot GIT clone och lägga till addressen: https://github.com/LeRuggedHermit/LeRuggedHermit.git. 
+
+**Thats all folks, Bye!**
