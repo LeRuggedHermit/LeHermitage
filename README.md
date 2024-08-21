@@ -3,7 +3,7 @@
 **About me:** I am a Fullstack developer with a degree from the mid sweden university in Sundsvall. After two years at university where this github has been used mainly to upload various projects made for school I am now about to start using this 
 for a bit more **Personal** projects.
 
->*For instance im currently working on a media-player that is going to be used on a website im building for a band.*  
+>*Right now im experimenting a lot with fron-end stuff for instance*  
 
 The languages and techniques i use on my projects are (among others):
 * HTML
